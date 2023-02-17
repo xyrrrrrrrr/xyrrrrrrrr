@@ -1,6 +1,4 @@
 
-<div align="center"> <img src="https://metrics.lecoq.io/xyrrrrrrrr?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 - 👋 Hi, I’m @xyrrrrrrrr, currently a undergo from SJTU
 - 👀 I’m interested in many interesting regions.
 - 🌱 I’m currently learning multi agent.

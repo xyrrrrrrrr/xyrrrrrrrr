@@ -11,7 +11,7 @@
 <div align="left|right">
   
   
-![Who's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrrrrrrrr)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyrrrrrrrr" />
+![Who's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrrrrrrrr)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyrrrrrrrr" style="zoom:88%">
 
 </div>
 

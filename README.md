@@ -1,3 +1,5 @@
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to my profile!&center=true&size=27"> </a> </h1>
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=xyrrrrrrrr&show_icons=true&theme=dark"
@@ -10,7 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xyrrrrrrrr&show_icons=true" />
 </picture>
 
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyrrrrrrrr&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xyrrrrrrrr&theme=xcode" /> </div>
 
 - 👋 Hi, I’m @xyrrrrrrrr
 - 👀 I’m interested in many interesting regions.
